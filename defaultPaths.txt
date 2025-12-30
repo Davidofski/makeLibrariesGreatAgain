@@ -1,0 +1,3 @@
+C:\Users\david\OneDrive\Dokumenter\Arduino\Projekte\Project_CampControl\SquareLine_Project\libraries\ui
+C:\Users\david\OneDrive\Dokumenter\Arduino\libraries\ui\
+C:\Users\david\OneDrive\Dokumenter\Arduino\libraries\lvgl\src\
